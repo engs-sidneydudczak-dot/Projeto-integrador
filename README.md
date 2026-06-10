@@ -14,7 +14,14 @@ Como parte da **Sprint 3**, desenvolvemos um protótipo de alta fidelidade que s
 🔗 **[CLIQUE AQUI PARA ACESSAR O PROTÓTIPO NO FIGMA](https://www.figma.com/proto/AlVZLgEz5sJs8g817zXEf1/CultivIA?node-id=2-803&t=dqWGCQrzVbjvn02s-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=76%3A151)**
 
 ---
+## 📽️ Apresentação do Projeto (Pitch)
+Para compreender a nossa proposta de valor, a dor do stakeholder e a viabilidade técnica da solução através da Inteligência Artificial, assista a nossa apresentação.
 
+
+🔗 **[ASSISTIR APRESENTAÇÃO COMPLETA](https://drive.google.com/file/d/14Pf-6UQVoqM_FAmFj1pm_8fcncKmq2Wm/view?usp=sharing)**
+
+
+---
 ## 🚀 Funcionalidades Principais
 *   **Diagnóstico por IA (RF09):** Identificação de doenças via foto com sugestões de manejo e EPIs.
 *   **Gestão Financeira (RF02):** Cálculo automático de lucro real subtraindo custos de insumos e manutenção.
