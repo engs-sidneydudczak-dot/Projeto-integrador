@@ -18,7 +18,7 @@ Desenvolvemos um protótipo de alta fidelidade que simula a experiência real do
 Para compreender a nossa proposta de valor, a dor do stakeholder e a viabilidade técnica da solução através da Inteligência Artificial, assista a nossa apresentação.
 
 
-🔗 **[ASSISTIR APRESENTAÇÃO COMPLETA]([https://drive.google.com/file/d/14Pf-6UQVoqM_FAmFj1pm_8fcncKmq2Wm/view?usp=sharing](https://drive.google.com/file/d/14Pf-6UQVoqM_FAmFj1pm_8fcncKmq2Wm/view?usp=sharing))**
+🔗 **[ASSISTIR APRESENTAÇÃO COMPLETA](https://drive.google.com/file/d/14Pf-6UQVoqM_FAmFj1pm_8fcncKmq2Wm/view?pli=1)**
 
 ---
 ## 🚀 Funcionalidades Principais
